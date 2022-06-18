@@ -30,8 +30,7 @@
     transition: background-color 0.5s ease;
   }
   nav.putih {
-    background-color: aqua;
-    color : white;
+    background-color : white ;
   }
   nav .logo {
     float: left;
